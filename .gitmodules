@@ -1,0 +1,30 @@
+[submodule "dep_src/mbedtls"]
+	path = dep_src/mbedtls
+	url = https://github.com/Mbed-TLS/mbedtls
+[submodule "dep_src/gpm"]
+	path = dep_src/gpm
+	url = https://github.com/telmich/gpm
+[submodule "dep_src/libusb"]
+	path = dep_src/libusb
+	url = https://github.com/libusb/libusb.git
+[submodule "dep_src/imobiledevice/libimobiledevice"]
+	path = dep_src/imobiledevice/libimobiledevice
+	url = https://github.com/libimobiledevice/libimobiledevice
+[submodule "dep_src/imobiledevice/libimobiledevice-glue"]
+	path = dep_src/imobiledevice/libimobiledevice-glue
+	url = https://github.com/libimobiledevice/libimobiledevice-glue
+[submodule "dep_src/imobiledevice/libirecovery"]
+	path = dep_src/imobiledevice/libirecovery
+	url = https://github.com/libimobiledevice/libirecovery
+[submodule "dep_src/imobiledevice/libplist"]
+	path = dep_src/imobiledevice/libplist
+	url = https://github.com/libimobiledevice/libplist
+[submodule "dep_src/imobiledevice/libusbmuxd"]
+	path = dep_src/imobiledevice/libusbmuxd
+	url = https://github.com/libimobiledevice/libusbmuxd
+[submodule "dep_src/imobiledevice/usbmuxd"]
+	path = dep_src/imobiledevice/usbmuxd
+	url = https://github.com/libimobiledevice/usbmuxd
+[submodule "dep_src/readline"]
+	path = dep_src/readline
+	url = https://git.savannah.gnu.org/git/readline.git
